@@ -4,6 +4,8 @@
     <string name="tv_SegundoValor">Ingresa el segundo valor</string>
     <string name="rb1">Sumar</string>
     <string name="rb2">Restar</string>
+    <string name="rb3">Multiplicar</string>
+    <string name="rb4">Dividir</string>
     <string name="Button">CALCULAR</string>
     <string name="tv_Resultado">Resultado</string>
 </resources>
